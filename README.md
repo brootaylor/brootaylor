@@ -1,6 +1,6 @@
 # Hi, I’m Bruce Taylor 👋
 
-I build websites and have been doing so for around two decades now.
+I build websites and have been doing so for around two decades now. Quite a few of those years were spent in the travel industry as a senior / lead developer designing and developing ecommerce front-end solutions for Airmiles, Avios, and IAG Loyalty.
 
 I mostly work on the "[front-of-the-front-end](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)" and find I'm best suited to roles that balance the user and developer experiences. I enjoy roles that both empower the team to write great code in whatever way feels right to them as well as ensuring that this does not negatively impact the user experience.
 
