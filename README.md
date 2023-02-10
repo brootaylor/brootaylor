@@ -8,4 +8,4 @@ My core skills are semantic HTML, CSS, responsive design, progressively enhanced
 
 I try my best to build web solutions that are [resilient](https://resilientwebdesign.com/), [usable](https://trentwalton.com/2014/03/10/device-agnostic/) and as future-friendly as possible.
 
-Here's a [bit more about me](/about) if you're interested.
+Here's a [bit more about me](https://brootaylor.com/about) if you're interested.
