@@ -1,4 +1,4 @@
-# Hi, I’m Bruce Taylor  .
+# Hi, I’m Bruce Taylor 👋
 
 I build websites and have been doing so for around two decades now.
 
