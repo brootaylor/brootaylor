@@ -7,3 +7,5 @@ I mostly work on the "[front-of-the-front-end](https://bradfrost.com/blog/post/f
 My core skills are semantic HTML, CSS, responsive design, progressively enhanced JS, PWAs, web performance, web accessibility, static site generation, Eleventy, Astro & Svelte. You'll also find me with my hands in the "*back-of-the-front-end*" and some DevOps stuff from time to time as well - (eg. JavaScript bundlers, build & deployment tooling, CI/CD etc.).
 
 I try my best to build web solutions that are [resilient](https://resilientwebdesign.com/), [usable](https://trentwalton.com/2014/03/10/device-agnostic/) and as future-friendly as possible.
+
+Here's a [bit more about me](/about) if you're interested.
