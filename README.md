@@ -12,4 +12,6 @@ Here's a [bit more about me](https://brootaylor.com/about) if you're interested.
 
 ---
 
+Also here if needed...
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-500+-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brootaylor/)
