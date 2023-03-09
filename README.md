@@ -10,8 +10,6 @@ I try my best to build web solutions that are [resilient](https://resilientwebde
 
 Here's a [bit more about me](https://brootaylor.com/about) if you're interested.
 
----
-
-**Also here**...
+Also here...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-500+-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brootaylor/)
