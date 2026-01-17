@@ -12,4 +12,5 @@ Here's a [bit more about me](https://brootaylor.com/about) if you're interested.
 
 ## ⚡️ Latest articles on [my blog](https://brootaylor.com/)
 
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
