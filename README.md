@@ -13,4 +13,9 @@ Here's a [bit more about me](https://brootaylor.com/about) if you're interested.
 ## ⚡️ Latest articles on [my blog](https://brootaylor.com/)
 
 <!-- BLOG-POST-LIST:START -->
+- [The real problem with AI coding](https://brootaylor.com/bookmarks/2025-11-15/the-real-problem-with-ai-coding)
+- [Programming principles for self taught front-end developers](https://brootaylor.com/bookmarks/2025-11-15/programming-principles-for-self-taught-front-end-developers)
+- [Note: 15 November 2025 @ 1:38 PM](https://brootaylor.com/notes/2025-11-15/note_202511151338)
+- [Note: 14 November 2025 @ 11:15 AM](https://brootaylor.com/notes/2025-11-14/note_202511141115)
+- [Note: 25 July 2025 @ 12:44 PM](https://brootaylor.com/notes/2025-07-25/note_202507251244)
 <!-- BLOG-POST-LIST:END -->
