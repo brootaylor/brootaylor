@@ -15,13 +15,9 @@ And if you've got this far, why not take a peek at some of the posts on [my blog
 ## ⚡️ Featured posts
 
 - ["Ai" Bot Blocker](https://brootaylor.com/writing/2025-01-05/ai-bot-blocker)
-- [Perspective](https://brootaylor.com/writing/2022-04-05/perspective)
 - [Going Offline is online …for free](https://brootaylor.com/bookmarks/2024-11-28/going-offline-is-online-for-free)
 - [The Folly of Chasing Demographics](https://brootaylor.com/bookmarks/2024-02-22/the-folly-of-chasing-demographics)
 - [There’s Meaning in the Ordering of the Web’s Tech Stack](https://brootaylor.com/bookmarks/2023-08-14/theres-meaning-in-the-ordering-of-the-webs-tech-stack)
-
-## ⚡️ Latest posts
-
 <!-- BLOG-POST-LIST:START -->
 - [The real problem with AI coding](https://brootaylor.com/bookmarks/2025-11-15/the-real-problem-with-ai-coding)
 - [Programming principles for self taught front-end developers](https://brootaylor.com/bookmarks/2025-11-15/programming-principles-for-self-taught-front-end-developers)
