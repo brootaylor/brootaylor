@@ -42,8 +42,5 @@ jobs:
           # Maximum number of posts to list in the README
           max_post_count: 3
 
-          # Template for each post entry in the README
-          template: "$newline - [{title}]({url})"
-
           # Commit message used when README.md is updated
           commit_message: "chore: update README with latest posts"
