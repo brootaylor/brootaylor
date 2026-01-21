@@ -8,7 +8,7 @@ I’m quite good at picking up new skills and programming languages, as well as 
 
 All things impacting the user experience on the web matters to me. This is where I’m most comfortable and where I’ve ended up specialising. Which is why you’ll mostly find me tinkering around in the “[front-of-the-front-end](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)” — the somewhat broad and *fuzzy* intersection between design and back-end engineering.
 
-I’ve had some experience creating frontend solutions to support design systems & design token architecture — (making sure components are consistent, scalable, and themeable) — and don’t tie developers to any one tech stack. It’s something I really enjoy working on and would like to do more of. I think a good design system should be a stable foundation. Flexible and tech-agnostic enough to stay relevant and useful, even as technologies come and go.
+I’ve have experience creating frontend solutions to support design systems & design token architecture — (making sure components are consistent, scalable, and themeable) — and don’t tie developers to any one tech stack. It’s something I really enjoy working on and would like to do more of. I think a good design system should be a stable foundation. Flexible and tech-agnostic enough to stay relevant and useful, even as technologies come and go.
 
 Oof, that was a mouthful eh!
 
