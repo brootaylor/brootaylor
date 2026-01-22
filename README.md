@@ -14,7 +14,7 @@ Oof, that was a mouthful, eh!
 
 In short, I try my best to build web solutions that are [resilient](https://resilientwebdesign.com/), [usable](https://trentwalton.com/2014/03/10/device-agnostic/) and as future-friendly as possible.
 
-## ⚡️ Some posts on [my website](https://brootaylor.com/)
+## ⚡️ Some posts on [my blog](https://brootaylor.com/)
 
 - ["Ai" Bot Blocker](https://brootaylor.com/writing/2025-01-05/ai-bot-blocker)
 - [Going Offline is online …for free](https://brootaylor.com/bookmarks/2024-11-28/going-offline-is-online-for-free)
