@@ -10,7 +10,7 @@ Here's a bit more [about me](https://brootaylor.com/about).
 - [Going Offline is online …for free](https://brootaylor.com/bookmarks/2024-11-28/going-offline-is-online-for-free)
 - [The Folly of Chasing Demographics](https://brootaylor.com/bookmarks/2024-02-22/the-folly-of-chasing-demographics)
 - [There’s Meaning in the Ordering of the Web’s Tech Stack](https://brootaylor.com/bookmarks/2023-08-14/theres-meaning-in-the-ordering-of-the-webs-tech-stack)<!-- BLOG-POST-LIST:START -->
+- [Lowering the specificity of multiple rules at once](https://brootaylor.com/bookmarks/2026-02-01/lowering-specificity-of-multiple-rules)
+- [Note: 01 February 2026 @ 12:39 PM](https://brootaylor.com/notes/2026-02-01/note_202602011239)
 - [Note: 26 January 2026 @ 12:15 PM](https://brootaylor.com/notes/2026-01-26/note_202601261215)
-- [Note: 22 January 2026 @ 12:50 PM](https://brootaylor.com/notes/2026-01-22/note_202601221250)
-- [The Main Thread Is Not Yours](https://brootaylor.com/bookmarks/2026-01-22/the-main-thread-is-not-yours)
 <!-- BLOG-POST-LIST:END -->
