@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
 
-  # Run automatically on a daily schedule (at 00:00 UTC) to keep README up to date with latest posts
+  # Run automatically on a daily schedule (at 00:00 UTC) to keep README up to date with latest 3 posts
   schedule:
     - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
 
@@ -43,4 +43,4 @@ jobs:
           max_post_count: 3
 
           # Commit message used when README.md is updated
-          commit_message: "chore: update README with latest posts"
+          commit_message: "chore: update README with latest 3 posts"
