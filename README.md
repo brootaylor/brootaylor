@@ -1,6 +1,6 @@
 # Hi, I’m Bruce Taylor 👋
 
-I build websites and have been doing so for just over two decades, and am currently contracted as a Frontend Engineer for [Admiral Group Plc](https://brootaylor.com/projects/admiral), working on their customer facing websites.
+I build websites and have been doing so for just over two decades, and am currently contracted as a "Full Stack Engineer" for [Admiral Group Plc](https://brootaylor.com/projects/admiral), working on their customer facing websites.
 
 Here's a bit more [about me](https://brootaylor.com/about).
 
