@@ -11,6 +11,6 @@ Here's a bit more [about me](https://brootaylor.com/about).
 - [The Folly of Chasing Demographics](https://brootaylor.com/bookmarks/2024-02-22/the-folly-of-chasing-demographics)
 - [There’s Meaning in the Ordering of the Web’s Tech Stack](https://brootaylor.com/bookmarks/2023-08-14/theres-meaning-in-the-ordering-of-the-webs-tech-stack)<!-- BLOG-POST-LIST:START -->
 - [Training your replacement](https://brootaylor.com/bookmarks/2026-02-25/training-your-replacement)
+- [Magic](https://brootaylor.com/bookmarks/2026-02-18/magic)
 - [Building Websites With LLMS](https://brootaylor.com/bookmarks/2026-02-16/lots-of-little-html-pages)
-- [Lowering the specificity of multiple rules at once](https://brootaylor.com/bookmarks/2026-02-01/lowering-specificity-of-multiple-rules)
 <!-- BLOG-POST-LIST:END -->
