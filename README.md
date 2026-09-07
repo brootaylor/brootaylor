@@ -8,7 +8,7 @@ Here's a bit more [about me](https://brootaylor.com/about).
 
 - [brootaylor.com](https://brootaylor.com) – my personal website, blog, and portfolio.
 - [playground.brootaylor.com](https://playground.brootaylor.com/) - experimental playground area for all sorts of web development ideas, techniques, features, etc.
-- [Tech-Agnostic Spec-First Development Scaffold](https://github.com/brootaylor/tech-agnostic-spec-first-development-scaffold) – A starter template for building web projects — tech-agnostic, spec-first, and works whether you build by hand, use an "Ai" agent, or both.
+- [Tech-Agnostic Spec-First Development Scaffold](https://github.com/brootaylor/tech-agnostic-spec-first-dev-scaffold) – A starter template for building web projects — tech-agnostic, spec-first, and works whether you build by hand, use an "Ai" agent, or both.
 
 ## ⚡️ Some posts on [my blog](https://brootaylor.com/)
 
