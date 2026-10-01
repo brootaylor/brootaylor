@@ -17,4 +17,6 @@ Here's a bit more [about me](https://brootaylor.com/about).
 - [Note: 29 September 2026 @ 5:08 PM](https://brootaylor.com/notes/2026-09-29/note_202609291708)
 - [We&#39;re all fed up](https://brootaylor.com/bookmarks/2026-09-29/we-are-all-fed-up)
 - [My Web Development Resources 2026](https://brootaylor.com/writing/2026-09-13/my-frontend-resources-2026)
+- [Note: 24 July 2026 @ 4:18 PM](https://brootaylor.com/notes/2026-07-24/note_202607241618)
+- [Note: 19 July 2026 @ 11:19 AM](https://brootaylor.com/notes/2026-07-19/note_202607191119)
 <!-- BLOG-POST-LIST:END -->
