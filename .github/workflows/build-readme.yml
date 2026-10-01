@@ -40,7 +40,7 @@ jobs:
           feed_list: "https://brootaylor.com/feed.xml"
 
           # Maximum number of posts to list in the README
-          max_post_count: 3
+          max_post_count: 5
 
           # Commit message used when README.md is updated
-          commit_message: "chore: update README with latest 3 posts"
+          commit_message: "chore: update README with latest 5 posts"
