@@ -10,6 +10,8 @@ Here's a bit more [about me](https://brootaylor.com/about).
 - [Experimental playground](https://github.com/brootaylor/brootaylor-astro-v1) - 'Playground' for all sorts of web development ideas, techniques, features, etc.
 - [Tech-Agnostic Spec-First Development Scaffold](https://github.com/brootaylor/tech-agnostic-spec-first-dev-scaffold) – Starter template for building web projects — tech-agnostic, spec-first, and works whether you build by hand, use an "Ai" agent, or both.
 - ["Ai" Bot Blocker](https://gist.github.com/brootaylor/cac258aca4a68746ba99036d7a4e808b) - Netlify Edge Function to block AI crawlers.
+- [Lockfile Denylist Scanner](https://gist.github.com/brootaylor/72388c711cfb3b610dde23cacd63e5ca) - Node scripts that guard an npm project against known compromised packages.
+- [Service Worker](https://gist.github.com/brootaylor/c039f2413874d6b0c399038d6aeaa5cb) - Two versions. One written in Nunjucks and the other in vanilla JS.
 
 ## ⚡️ Latest posts on [my blog](https://brootaylor.com/)
 
